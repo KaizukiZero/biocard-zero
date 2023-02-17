@@ -16,4 +16,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-This Project is BioCard like 
+Example
+
+Before You Enter your username
+![This is an image](/public/beforeentername.png)
+
+After You Enter Your username
+![This is an image](/public/afterentername.png)
