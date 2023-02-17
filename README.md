@@ -18,6 +18,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 Example
 
+Before You Enter your username
 ![This is an image](/public/beforeentername.png)
 
+After You Enter Your username
 ![This is an image](/public/afterentername.png)
